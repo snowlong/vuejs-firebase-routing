@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+https://www.udemy.com/build-web-apps-with-vuejs-firebase/
+
 ## Build Setup
 
 ``` bash
